@@ -1,5 +1,5 @@
 package collection2ArrayList;
-
+// Prueba de github 15/04/2024
 // Clase Personas para ClaseColeccion2
 public class Personas {
 
